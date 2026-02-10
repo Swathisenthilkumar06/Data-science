@@ -1,0 +1,3 @@
+This dataset represents city-level traffic conditions in the state of Manipur. It contains traffic records collected at regular time intervals, designed to reflect realistic urban traffic patterns across major cities such as Imphal, Thoubal, Bishnupur, Churachandpur, and Ukhrul.
+Each record includes the date and time of observation, the city within Manipur, type of vehicle, vehicle count, average speed, congestion level, and weather conditions. The dataset helps analyze traffic flow, congestion trends, and vehicle movement behavior under different conditions.
+This dataset is suitable for DBMS implementation, Business Intelligence analysis, traffic congestion studies, data visualization, and predictive modeling.
